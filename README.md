@@ -1,5 +1,5 @@
 # LinkedListIntro
-basic exercises using a linked list
+create a linkedlist from scratch
 
 follows the tutorial of Jeff Chastine which can be found on youtube:
 https://www.youtube.com/watch?v=3svB0kM6f10&t=5s
