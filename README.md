@@ -35,48 +35,59 @@ The program is all written within the Program.cs file. In that file there are 2 
 ### Node Class (with constructor and print method)
 
 ```C#
-        public class Node
-    {
-        public int data;
-        public Node next;
+	public class Node
+	{
+		public int data;
+		public Node next;
+		// constructor
+		public Node(int i)
+		{
+			data = i;
+			next = null;
+		}
 
-        // constructor
-        public Node(int i)
-        {
-            data = i;
-            next = null;
-        }
+		// print method
+		public void Print()
+		{
+			Console.Write("|" + data + "|->");
+			if (next != null)
+			{
+				next.Print();
+			}
+		}
 
-        // print method
-        public void Print()
-        {
-            Console.Write("|" + data + "|->");
-            if (next != null)
-            {
-                next.Print();
-            }
-        }
+		// add sorted method
+		public void AddSorted(int data)
+		{
+			if (next == null)
+			{
+				next = new Node(data);
+			}
+			else if (data < next.data)
+			{
+				Node temp = new Node(data);
+				temp.next = this.next;
+				this.next = temp;
+			}
+			else
+			{
+				next.AddSorted(data);
+			}
+		}
 
-        // add sorted method
-        public void AddSorted(int data)
-        {
-            if (next == null)
-            {
-                next = new Node(data);
-            }
-            else if (data < next.data)
-            {
-                Node temp = new Node(data);
-                temp.next = this.next;
-                this.next = temp;
-            }
-            else
-            {
-                next.AddSorted(data);
-            }
-           
-        }
-}
+		// add to end method
+		public void AddToEnd(int data)
+		{
+			if (next == null)
+			{
+				next = new Node(data);
+			}
+			else
+			{
+				next.AddToEnd(data);
+			}
+		}
+	}
 ```
 
 ![Node_Class.PNG](https://gamblepants.github.io/img/Node_Class.PNG)
