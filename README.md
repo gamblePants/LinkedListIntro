@@ -30,4 +30,4 @@ The program is all written within the Program.cs file. In that file there are 2 
 
 ##Code example
 
-![Node_Class.PNG](gamblePants.github.com/gamblePants.github.io/img/Node_Class.PNG)
+![Node_Class.PNG](https://gamblepants.github.io/img/Node_Class.PNG)
