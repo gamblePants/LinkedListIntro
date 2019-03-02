@@ -30,9 +30,9 @@ https://www.youtube.com/watch?v=3svB0kM6f10&t=5s
 
 The program is all written within the Program.cs file. In that file there are 2 classes (Node and MyList). Node has a constructor to create nodes, and also sort and "print" methods. MyList has no constructor, just sort and print methods which are similar to the Node methods. The program is executed from the Main() method.
 
-## Code examples
+## Code example
 
-### Node Class (with constructor and print method)
+### Node Class
 
 ```C#
 	public class Node
@@ -90,8 +90,4 @@ The program is all written within the Program.cs file. In that file there are 2 
 	}
 ```
 
-![Node_Class.PNG](https://gamblepants.github.io/img/Node_Class.PNG)
 
-### AddSorted Method (within Node Class)
-
-![Add_Sorted_Method.PNG](https://gamblepants.github.io/img/Add_Sorted_Method.PNG)
