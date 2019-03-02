@@ -34,7 +34,7 @@ The program is all written within the Program.cs file. In that file there are 2 
 
 ### Node Class (with constructor and print method)
 
-```
+```C#
         public class Node
     {
         public int data;
