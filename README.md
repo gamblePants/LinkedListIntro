@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=3svB0kM6f10&t=5s
 ## How to run program
 
 - The simplest method is to run the program online from DotNetFiddle: https://dotnetfiddle.net/fS708T
-- Alternatively go to the "Release" tab and download the sourcode.zip and extract
+- Alternatively go to the "Release" tab and download the Source code zipped folder and extract
 - You will need to run the LinkedListIntro.sln file in an IDE that can compile in C# (like Visual Studio)
 
 ## Program Structure
