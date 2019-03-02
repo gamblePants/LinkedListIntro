@@ -6,7 +6,7 @@ https://www.c-sharpcorner.com/article/linked-list-implementation-in-c-sharp/
 
 <h2>Purpose</h2>
 
-The program is for educational purposes (mainly my own). It follows a tutorial on YouTube and helps me understand the logic of linked lists. In this example the data is an int. 
+The program is for educational purposes (mainly my own). It follows a tutorial on YouTube and helps me understand the logic of linked lists.
 
 <h2>Credits</h2>
 
