@@ -30,4 +30,10 @@ The program is all written within the Program.cs file. In that file there are 2 
 
 ## Code example
 
+### Node Class (with constructor and print method)
+
 ![Node_Class.PNG](https://gamblepants.github.io/img/Node_Class.PNG)
+
+### AddSorted Method (within Node Class)
+
+![Add_Sorted_Method.PNG](https://gamblepants.github.io/img/Add_Sorted_Method.PNG)
