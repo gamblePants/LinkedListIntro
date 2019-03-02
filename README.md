@@ -8,11 +8,11 @@ https://www.c-sharpcorner.com/article/linked-list-implementation-in-c-sharp/
 
 ## Purpose
 
-The program is for educational purposes (mainly my own). It follows a tutorial on YouTube and helps me understand the logic of linked lists.
+For educational purposes (mainly my own). It follows a tutorial on YouTube and helps me understand the logic of linked lists.
 
 ## Credits
 
-This program was motivated by Jeff Chastine's YouTube tutorials on Linked Lists. The first one (18.1) "Introduction to Linked Lists" gives some nice visuals to help explain the concept:
+Motivated by Jeff Chastine's YouTube tutorials on Linked Lists. The first one (18.1) "Introduction to Linked Lists" gives some nice visuals to help explain the concept:
 https://www.youtube.com/watch?v=lcNL_HLpcEs&t=68s
 
 The second tutorial (18.2) "Developing a Linked List" puts the theory in to practise, by showing how to build the list in C#. My program follows this video:
