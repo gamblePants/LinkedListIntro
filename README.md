@@ -4,6 +4,8 @@ This program builds a linked list in c# from scratch. A linked list is a data
 structure consisting of nodes in a sequence. Each node is made up of 2 parts, the head (containing the data), and the address (pointing to the next node). More information on linked lists can be found here:
 https://www.c-sharpcorner.com/article/linked-list-implementation-in-c-sharp/
 
+![visual_linked_list.PNG](https://gamblepants.github.io/img/visual_linked_list.PNG)
+
 ## Purpose
 
 The program is for educational purposes (mainly my own). It follows a tutorial on YouTube and helps me understand the logic of linked lists.
