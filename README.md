@@ -39,6 +39,7 @@ The program is all written within the Program.cs file. In that file there are 2 
 	{
 		public int data;
 		public Node next;
+		
 		// constructor
 		public Node(int i)
 		{
