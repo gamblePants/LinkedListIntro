@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=3svB0kM6f10&t=5s
 <h2>How to run program</h2>
 
 <ul>
-  <li>The simplest method is to run the program online from JSFiddle: https://dotnetfiddle.net/fS708T</li>
+  <li>The simplest method is to run the program online from DotNetFiddle: https://dotnetfiddle.net/fS708T</li>
   <li>Alternatively go to the "Release" tab and download the sourcode.zip and extract</li>
   <li>You will need to run the LinkedListIntro.sln file in an IDE that can compile in C# (like Visual Studio)</li>
 </ul>
