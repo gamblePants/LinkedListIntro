@@ -1,10 +1,12 @@
 # LinkedListIntro
 
 This program builds a linked list in c# from scratch. A linked list is a data 
-structure consisting of nodes in a sequence. Each node is made up of 2 parts; the data, and the address (pointing to the next node). More information on linked lists can be found here:
+structure consisting of nodes in a sequence. Each node is made up of 2 parts; the data, and the address (pointing to the next node or null). More information on linked lists can be found here:
 https://www.c-sharpcorner.com/article/linked-list-implementation-in-c-sharp/
 
 ![linked_list.PNG](https://gamblepants.github.io/img/linked_list.PNG)
+
+This program has several Add() methods to add integers to a linked list. The methods can add to the beginning of the list, the end of the list, or add them in sorted numerically. This program adds in the integers 9, 5, 7 and 11 using the AddSorted() method and then displays the list.
 
 ## Purpose
 
@@ -21,7 +23,7 @@ https://www.youtube.com/watch?v=3svB0kM6f10&t=5s
 ## How to run program
 
 - The simplest method is to run the program online from DotNetFiddle: https://dotnetfiddle.net/fS708T
-- Alternatively go to the "release" tab above, download the Source code zipped folder and extract
+- Alternatively go to the [Release](https://github.com/gamblePants/LinkedListIntro/releases) page, download the Source code zipped folder and extract
 - You will need to run the LinkedListIntro.sln file in an IDE that can compile in C# (like Visual Studio)
 
 ## Program Structure
